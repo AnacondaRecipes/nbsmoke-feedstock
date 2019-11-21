@@ -21,6 +21,7 @@ requirements:
     - pip
   run:
     - beautifulsoup4
+    - holoviews
     - ipykernel
     - jupyter_client
     - nbconvert
